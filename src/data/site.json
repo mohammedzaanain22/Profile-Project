@@ -1,0 +1,99 @@
+{
+  "name": "Mohammed Al-Zaneen",
+  "role": "Full-Stack Developer",
+  "nav": [
+    { "label": "About", "id": "about" },
+    { "label": "Skills", "id": "skills" },
+    { "label": "Work", "id": "work" },
+    { "label": "Contact", "id": "contact" }
+  ],
+  "hero": {
+    "status": "Available for work",
+    "prefix": "I build",
+    "words": [" Web apps.", "APIs.", "3D experiences.", "Products."],
+    "intro": "Full-stack developer turning ideas into fast, reliable products, from the database to the last pixel.",
+    "primaryButton": "See my work",
+    "secondaryButton": "Get in touch"
+  },
+  "marquee": ["React", "Next.js", "TypeScript", "Node.js", "GitHub", "MongoDB", "Three.js",  "Tailwind"],
+  "about": {
+    "eyebrow": "About me",
+    "title": "Building things that feel simple and run solid.",
+    "highlight": "simple",
+    "photo": "/me.jpeg",
+    "paragraphs": [
+      "Hi, I'm Mohammed Al-Zaneen, a full-stack developer ",
+      "I love building scalable web applications and solving complex problems with elegant solutions."
+    ],
+    "stats": [
+      { "value": 10, "label": "Projects shipped" },
+      { "value": 3, "label": "Years coding" },
+      { "value": 8, "label": "Happy clients" }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "The stack I ship with",
+    "items": [
+      { "title": "Frontend", "desc": "Fast, accessible interfaces with real attention to detail.", "tags": ["React", "Next.js", "TypeScript", "Tailwind", "Three.js"] },
+      { "title": "Backend", "desc": "APIs, auth and business logic.", "tags": ["Node.js", "Express", "GraphQL"] },
+      { "title": "Data", "desc": "Reliable storage and caching.", "tags": ["PostgreSQL", "MongoDB", "Redis"] },
+      { "title": "Deploy and tooling", "desc": "From commit to production without drama.", "tags": ["Docker", "CI/CD", "Git", "Linux"] }
+    ]
+  },
+  "projects": {
+  "eyebrow": "Selected work",
+  "title": "Projects I'm proud of",
+  "items": [
+    {
+      "title": "English language institute",
+      "desc": "It facilitates easy recording and resolves the issue of manual recording.",
+      "tags": ["React", "Node.js", "PostgreSQL"],
+      "image": "",
+      "demo": "",
+      "code": ""
+    },
+    {
+      "title": "Pharmacy Management System",
+      "desc": "A comprehensive solution for managing pharmacy operations, including inventory control and prescription processing.",
+      "tags": ["Next.js", "Node", "PostgreSQL"],
+      "image": "",
+      "demo": "",
+      "code": ""
+    },
+    {
+      "title": "Workspace Booking System",
+      "desc": "It helps the client secure a workspace in the shortest possible time and at the lowest possible cost.",
+      "tags": ["Vue", "Express", "MongoDB"],
+      "image": "",
+      "demo": "",
+      "code": ""
+    }
+  ]
+},
+  
+  "contact": {
+  "eyebrow": "Contact",
+  "title": "Have a project? Let's talk.",
+  "highlight": "Let's talk.",
+  "text": "Tell me what you need and I'll get back to you with a clear plan, timeline and price.",
+  "email": "mohammedzaanain@gmail.com",
+  "whatsapp": "972593231515",
+  "github": "https://github.com/mohammedzaanain",
+  "linkedin": "https://linkedin.com/mohammedzaanain",
+  "note": "Usually replies within a few hours",
+  "waButton": "Chat on WhatsApp",
+  "waMessage": "Hi, I saw your portfolio and I would like to talk about a project.",
+  "form": {
+    "title": "Send me a quick message",
+    "name": "Your name",
+    "email": "Your email",
+    "message": "About your project",
+    "messagePh": "What do you need built?",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Thanks! Your message was sent. I'll reply soon.",
+    "error": "Something went wrong. Please try again or email me directly."
+  }
+}
+}
